@@ -15,15 +15,16 @@
         android:layout_marginRight="4pt"
         android:layout_marginLeft="4pt"
         android:layout_marginTop="10pt"
-        android:hint="Username"/>
+        android:hint="Enter user email"/>
     <EditText
         android:id="@+id/password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10pt"
         android:layout_marginLeft="4pt"
+        android:inputType="textPassword"
         android:layout_marginRight="4pt"
-        android:hint="Password"/>
+        android:hint="Enter Password"/>
     <Button
         android:id="@+id/btn_login"
         android:layout_width="match_parent"
