@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131642910366",
+    "project_id": "my-login-app-9fb14",
+    "storage_bucket": "my-login-app-9fb14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131642910366:android:f3ed363156c25244243d8f",
+        "android_client_info": {
+          "package_name": "com.skylarroot.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131642910366-hkuvn9rlollutusbhj8408smjh68o8bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhWKEYekZahojG95iPg-3IzBSP-02gRJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131642910366-hkuvn9rlollutusbhj8408smjh68o8bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
