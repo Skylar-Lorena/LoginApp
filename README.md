@@ -7,7 +7,7 @@
 
 ```bash
 
-A login and registration application that connect both the pages with the firebase for authentication purposes. The information of the user gets registered when the user does the registration. Only the registered user can log in else it will show an error message.
+A login and registration application that connects both the pages with firebase for authentication purposes. The information of the user gets registered when the user does the registration. Only the registered user can log in else it will show an error message.
 
 
 ```
